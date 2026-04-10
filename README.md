@@ -18,11 +18,14 @@ I am a Python Full Stack Developer focused on building scalable web applications
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
 # 📊 GitHub Stats:
+## 📊 GitHub Stats
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Megha-Banoor&show_icons=true&theme=vue-dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Megha-Banoor&layout=compact&theme=vue-dark)
-
 ---
-[![](https://visitcount.itsvg.in/api?id=Megha-Banoor&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 📌 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Megha-Banoor&layout=compact&theme=vue-dark)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
