@@ -18,6 +18,7 @@ I am a Python Full Stack Developer focused on building scalable web applications
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
 # 📊 GitHub Stats:
+
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Megha-Banoor&show_icons=true&theme=vue-dark)
