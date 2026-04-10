@@ -20,10 +20,10 @@ I am a Python Full Stack Developer focused on building scalable web applications
 
 ## 📊 GitHub Stats
 
-![Megha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Megha-Banoor&show_icons=true&theme=vue-dark&hide_border=false)
+![Stats](https://github-readme-stats.vercel.app/api?username=Megha-Banoor&show_icons=true&theme=vue-dark)
 
 ## 📌 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Megha-Banoor&layout=compact&theme=vue-dark&hide_border=false)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Megha-Banoor&layout=compact&theme=vue-dark)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
