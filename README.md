@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Python Web Development**
   
-- 💻 Explore all my projects here 👉 [GitHub](https://github.com/Megha-Banoor)
+- 💻 Explore my repositories 👉 [My GitHub Projects](https://github.com/Megha-Banoor?tab=repositories)
 
 - 📫 How to reach me **meghamarkanja@gmail.com**
 
