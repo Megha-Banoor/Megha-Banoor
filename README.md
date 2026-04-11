@@ -12,6 +12,8 @@
 - 🤝 I’m looking for help with **Backend Optimization & Deployment**
 
 - 💬 Ask me about **Python Web Development**
+  
+- 💻 Explore all my projects here 👉 [GitHub](https://github.com/Megha-Banoor)
 
 - 📫 How to reach me **meghamarkanja@gmail.com**
 
